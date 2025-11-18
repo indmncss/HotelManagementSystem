@@ -1,0 +1,5 @@
+Invoice ID: 2
+CheckInID: 2
+Total: 11200.00
+Paid: 11200.00
+Date: 11/18/2025 12:47:03 PM
