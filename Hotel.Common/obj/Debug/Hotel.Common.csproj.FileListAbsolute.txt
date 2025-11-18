@@ -1,0 +1,6 @@
+D:\1School3rdYear\Event-Driven Programming\Hotel Management System\HotelManagementSystem\Hotel.Common\bin\Debug\Hotel.Common.dll
+D:\1School3rdYear\Event-Driven Programming\Hotel Management System\HotelManagementSystem\Hotel.Common\bin\Debug\Hotel.Common.pdb
+D:\1School3rdYear\Event-Driven Programming\Hotel Management System\HotelManagementSystem\Hotel.Common\obj\Debug\Hotel.Common.csproj.AssemblyReference.cache
+D:\1School3rdYear\Event-Driven Programming\Hotel Management System\HotelManagementSystem\Hotel.Common\obj\Debug\Hotel.Common.csproj.CoreCompileInputs.cache
+D:\1School3rdYear\Event-Driven Programming\Hotel Management System\HotelManagementSystem\Hotel.Common\obj\Debug\Hotel.Common.dll
+D:\1School3rdYear\Event-Driven Programming\Hotel Management System\HotelManagementSystem\Hotel.Common\obj\Debug\Hotel.Common.pdb
